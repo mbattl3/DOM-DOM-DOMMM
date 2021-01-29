@@ -1,0 +1,17 @@
+.boxes {
+  background-color: #213633;
+  height: 6em;
+  width: 6em;
+  margin: 1em;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #84c5bc;
+  display: flex;
+  flex-wrap: wrap;
+}
