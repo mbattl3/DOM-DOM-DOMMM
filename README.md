@@ -1,4 +1,3 @@
-# DOM-DOM-DOMMM
 # DOM DOM DOMMMMMMM!
 Covalence
 
